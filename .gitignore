@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env.example
+.venv/
+venv/
+venv/
+env/
+.venv/
+groqenv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.streamlit/secrets.toml
