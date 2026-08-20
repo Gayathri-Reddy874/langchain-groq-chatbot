@@ -1,6 +1,6 @@
 # 💬 LangChain Groq Chatbot
 
-A production-structured, streaming AI chatbot built with **LangChain** and **Groq's LPU inference engine**, with **Streamlit** as the UI layer. Unlike a typical single-file demo, this project is organized like a real application: modular source layout, LangChain-native conversation memory, retry-safe API calls, structured logging, unit tests, and CI/CD — ready to extend or deploy.
+A production-structured, streaming AI chatbot built with **LangChain** and **Groq's LPU inference engine**, with **Streamlit** as the UI layer. Unlike a typical single-file demo, this project is organized like a real application: modular source layout, LangChain-native conversation memory, retry-safe API calls, structured logging, unit tests, and CI/CD - ready to extend or deploy.
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.38-red)
