@@ -32,7 +32,7 @@ A production-structured, streaming AI chatbot built with **LangChain** and **Gro
 - **Chat export** - download the current conversation as JSON.
 - **Modular architecture** - settings, the LangChain chain, and logging each live in their own module (`src/`) instead of one flat script, so the chain logic is testable independent of Streamlit.
 - **Tested & linted** - `pytest` unit tests for config validation and message handling, `ruff` for style, both wired into GitHub Actions CI.
-- **Containerized** — a slim Dockerfile for one-command deployment.
+- **Containerized** - a slim Dockerfile for one-command deployment.
 
 ## Architecture
 
