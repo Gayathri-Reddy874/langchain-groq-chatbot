@@ -38,7 +38,7 @@ A production-structured, streaming AI chatbot built with **LangChain** and **Gro
 
 ```
 langchain-groq-chatbot/
-├── app.py                  # Streamlit UI — session state, sidebar, chat loop
+├── app.py                  # Streamlit UI - session state, sidebar, chat loop
 ├── src/
 │   ├── config.py            # AppSettings dataclass + validation
 │   ├── chatbot.py            # LangChain chain: prompt | ChatGroq | parser, retry + streaming
