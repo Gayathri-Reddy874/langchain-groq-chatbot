@@ -26,7 +26,7 @@ A production-structured, streaming AI chatbot built with **LangChain** and **Gro
 
 - **True multi-turn memory, the LangChain-native way** - built on `RunnableWithMessageHistory` with a per-session `TrimmedChatMessageHistory`, so LangChain itself owns reading and appending turns instead of the app manually re-building a message list on every call.
 - **Optional LangSmith tracing** - set three env vars and every chain run, prompt, and token count becomes inspectable at smith.langchain.com; the app shows a sidebar indicator when it's active.
-- **Token streaming** — responses render word-by-word instead of waiting for the full completion.
+- **Token streaming** - responses render word-by-word instead of waiting for the full completion.
 - **Resilient API calls** — transient Groq errors are retried with exponential backoff (`tenacity`); permanent failures (bad key, rate limit) are shown as clear, human-readable messages instead of stack traces.
 - **Configurable at runtime** - swap models, adjust temperature/max tokens, and edit the system prompt from the sidebar without touching code.
 - **Chat export** — download the current conversation as JSON.
