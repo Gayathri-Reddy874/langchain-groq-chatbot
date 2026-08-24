@@ -161,5 +161,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for the full text.
 - [LangChain](https://python.langchain.com/) — orchestration framework for the chain and conversation memory
 - [Groq](https://groq.com/) — LPU inference engine powering fast completions
 - [Streamlit](https://streamlit.io/) — the UI layer
-- [LangSmith](https://smith.langchain.com/) — optional tracing and observability
+- [LangSmith](https://smith.langchain.com/) - optional tracing and observability
 
