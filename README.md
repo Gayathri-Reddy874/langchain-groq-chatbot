@@ -67,7 +67,7 @@ Each browser session gets its own `session_id` (a UUID stored in `st.session_sta
 
 ### LangSmith tracing (optional)
 
-Add these to your `.env` to get full visibility into every chain run — prompts, latency, token usage - in the [LangSmith](https://smith.langchain.com) UI:
+Add these to your `.env` to get full visibility into every chain run - prompts, latency, token usage - in the [LangSmith](https://smith.langchain.com) UI:
 
 ```bash
 LANGCHAIN_TRACING_V2=true
