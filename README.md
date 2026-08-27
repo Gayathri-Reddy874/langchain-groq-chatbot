@@ -24,6 +24,8 @@ A production-structured, streaming AI chatbot built with **LangChain** and **Gro
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+---
+
 ## Features
 
 - **True multi-turn memory, the LangChain-native way** - built on `RunnableWithMessageHistory` with a per-session `TrimmedChatMessageHistory`, so LangChain itself owns reading and appending turns instead of the app manually re-building a message list on every call.
