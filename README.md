@@ -10,6 +10,8 @@ A production-structured, streaming AI chatbot built with **LangChain** and **Gro
 [![Issues](https://img.shields.io/github/issues/Gayathri-Reddy874/langchain-groq-chatbot)](https://github.com/Gayathri-Reddy874/langchain-groq-chatbot/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/Gayathri-Reddy874/langchain-groq-chatbot)](https://github.com/Gayathri-Reddy874/langchain-groq-chatbot/commits/main)
 
+---
+
 ## Table of Contents
 
 - [Features](#features)
