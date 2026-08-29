@@ -152,6 +152,8 @@ Contributions, issues, and feature requests are welcome.
 
 Please keep PRs focused — one feature or fix per PR makes review much faster.
 
+---
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for the full text.
