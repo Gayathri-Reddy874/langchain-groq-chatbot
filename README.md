@@ -140,6 +140,8 @@ CI (`.github/workflows/ci.yml`) runs both on every push and pull request to `mai
 - [ ] Pluggable model providers (OpenAI, Anthropic) behind the same interface
 - [ ] Token/cost usage display per session
 
+---
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome.
