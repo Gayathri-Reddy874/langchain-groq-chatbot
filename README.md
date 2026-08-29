@@ -107,7 +107,7 @@ cp .env.example .env
 # edit .env and set GROQ_API_KEY=...
 ```
 
-Never commit `.env` — it's already covered by `.gitignore`. `.env.example` should only ever contain placeholder values. Alternatively, skip `.env` entirely and paste the key into the sidebar when the app is running; it's never stored or logged.
+Never commit `.env` - it's already covered by `.gitignore`. `.env.example` should only ever contain placeholder values. Alternatively, skip `.env` entirely and paste the key into the sidebar when the app is running; it's never stored or logged.
 
 ### 3. Run
 
