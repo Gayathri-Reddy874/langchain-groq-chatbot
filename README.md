@@ -71,6 +71,8 @@ Each browser session gets its own `session_id` (a UUID stored in `st.session_sta
 
 `src/chatbot.py` exposes `stream_response()` (used by the UI for a typing effect) and `get_response()` (a non-streaming variant, useful for tests or a future API layer), both wrapping the same chain so behavior stays consistent.
 
+---
+
 ### LangSmith tracing (optional)
 
 Add these to your `.env` to get full visibility into every chain run - prompts, latency, token usage - in the [LangSmith](https://smith.langchain.com) UI:
