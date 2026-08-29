@@ -38,6 +38,8 @@ A production-structured, streaming AI chatbot built with **LangChain** and **Gro
 - **Tested & linted** - `pytest` unit tests for config validation and message handling, `ruff` for style, both wired into GitHub Actions CI.
 - **Containerized** - a slim Dockerfile for one-command deployment.
 
+---
+
 ## Architecture
 
 ```
