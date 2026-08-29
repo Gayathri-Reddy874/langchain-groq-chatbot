@@ -117,6 +117,8 @@ streamlit run app.py
 
 Visit `http://localhost:8501`.
 
+---
+
 ### Run with Docker
 
 ```bash
