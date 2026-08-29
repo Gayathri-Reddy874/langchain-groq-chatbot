@@ -83,6 +83,8 @@ LANGCHAIN_PROJECT=langchain-groq-chatbot
 
 LangChain reads these directly from the environment, so no code changes are needed - the sidebar will show a "LangSmith tracing is on" indicator when active.
 
+---
+
 ## Getting Started
 
 ### Prerequisites
