@@ -154,6 +154,8 @@ Please keep PRs focused — one feature or fix per PR makes review much faster.
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for the full text.
 
+---
+
 ## Author
 
 **Mallareddygari Gayathri**
