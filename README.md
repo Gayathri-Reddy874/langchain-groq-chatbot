@@ -134,6 +134,8 @@ pytest -v           # unit tests
 
 CI (`.github/workflows/ci.yml`) runs both on every push and pull request to `main`.
 
+---
+
 ## Roadmap
 
 - [ ] Optional Redis/SQLite-backed persistent chat history across sessions
