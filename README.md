@@ -152,7 +152,7 @@ Contributions, issues, and feature requests are welcome.
 4. Commit (`git commit -m "Add your feature"`) and push
 5. Open a pull request describing the change
 
-Please keep PRs focused — one feature or fix per PR makes review much faster.
+Please keep PRs focused - one feature or fix per PR makes review much faster.
 
 ---
 
