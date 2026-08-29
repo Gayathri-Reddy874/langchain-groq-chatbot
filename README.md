@@ -162,6 +162,8 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for the full text.
 
 - GitHub: [@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
 
+---
+
 ## Acknowledgments
 
 - [LangChain](https://python.langchain.com/) — orchestration framework for the chain and conversation memory
